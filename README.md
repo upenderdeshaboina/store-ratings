@@ -13,8 +13,7 @@ A full-stack web application that allows users to submit ratings for stores. It 
 
 A video walkthrough demonstrating the application's features and functionality.
 
-*You can embed your project video here. For example, if you upload to YouTube, you can use the following Markdown:*
-`[!Project Demo Video](https://drive.google.com/file/d/1YP9BAcEkHkmg4HTtjHEtBRT6Zcv7pghx/view?usp=sharing)`
+https://github.com/user-attachments/assets/45c1a347-627f-46c3-8fe6-4cc14cd1835a
 
 ## Project Structure
 
