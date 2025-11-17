@@ -24,6 +24,23 @@ The project is organized into two main directories:
 
 ---
 
+## Cloning the Repository
+
+To get a local copy of the project up and running, follow these steps:
+
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/upenderdeshaboina/store-ratings
+    ```
+
+2. **Navigate into the project directory:**
+    ```sh
+    cd store-ratings
+    ```
+
+3. Proceed with the backend and frontend setup as described below.
+
+
 ## Setup and Installation
 
 Follow these steps to set up and run the project locally.
